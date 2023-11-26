@@ -1,0 +1,22 @@
+{
+    "name": "mariaSibylla tailwind project",
+    "short_name": "mariaSibylla",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#aa8789",
+    "theme_color": "#aa8789",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "bgBig.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "bgSmall.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}

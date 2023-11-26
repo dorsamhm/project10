@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: note;
+    src: url("../font/SFBurlingtonScript.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: sans;
+    src: url("../font/Analogist.otf") format("opentype");
+}
+
+@font-face {
+    font-family: main;
+    src: url("../font/VarelaRound-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: letter;
+    src: url("../font/MonsieurLaDoulaise-Regular.ttf") format("opentype");
+}
